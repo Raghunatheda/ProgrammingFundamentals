@@ -7,7 +7,7 @@ public class StringLength {
         String[] ab2={"word", "count", "diamond", "blue", "green"} ;
         String[] ab3= {"board", "jack", "java", "oop", "spring"};
 
-        String  longestString=getLongestString(ab2);
+        String  longestString=getLongestString(ab3);
         System.out.println("String longest ::" +longestString);
 
     }

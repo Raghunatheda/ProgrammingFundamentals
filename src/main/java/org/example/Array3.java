@@ -9,5 +9,6 @@ public class Array3 {
             arr1[1] = 23;
             System.out.println(arr1[i]);
         }
+
     }
 }
